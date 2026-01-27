@@ -1,0 +1,23 @@
+===OFF STAGE===
+Install DasLight 5: https://www.daslight.com/en/daslight5 (Mac/Windows buttons in top right)
+Open 'MW/SO 26 Emergency Shows.dvc'
+Click on the 'All Off' box under 'Utils'
+Make sure the word 'LIVE' is selected. This button is in the top left corner of the bottom right box, next to the button for 'EDIT'. It will be yellow when properly selected
+
+===ON STAGE, PRE SHOW===
+NOTE: LEAVE POWER STRIP OFF UNTIL THE LAPTOP IS CONNECTED TO THE LIGHT BOX
+Connect the Daslight box to the laptop with a usb cable
+Click 'Okay' for both prompts
+Turn on power strip
+Click on the 'Light Check' box under 'Utils'
+Check that all lights are lit up. *NOTE* The UFO will NOT light up. This is on purpose.
+Click on the 'All Off' box once the light check is finished.
+
+===ON STAGE, DURING SHOW===
+At the start of each song (when the band starts playing), click on the box that corresponds to the next song in the show.
+Each scene is named with the title of the song that it corresponds to (i.e. when 'Shake the Room' is being performed, the scene called 'Shake the Room' should be lit up.
+When the band stops playing the final song (when the kids have exited the stage), click the 'All Off' box to end the show.
+
+===ON STAGE, POST SHOW===
+Turn off the power strip
+Unplug the usb cable from the laptop
